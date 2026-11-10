@@ -1,0 +1,29 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment & Credentials
+.env
+venv/
+.venv/
+env/
+
+# Generated Data & Reports
+*.xlsx
+*.csv
+*.log
+*.json
+!package.json # Keep if managing Node/JS configs
+
+# Image & Screenshot Outputs
+*.png
+*.jpeg
+*.jpg
+screenshots/
+
+# System & IDE Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
